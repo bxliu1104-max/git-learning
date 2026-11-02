@@ -1,0 +1,5 @@
+Git Day 2 Practice
+
+1. I learned what a branch is.
+2. I created a test branch.
+3. I learned how to inspect file changes.
